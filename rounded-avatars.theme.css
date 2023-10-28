@@ -1,0 +1,26 @@
+/**
+ * @name Rounded Squared Avatars
+ * @author Nam
+ * @description Requested by SpaceWalker. Makes avatars rounded.
+ * @version 1
+ * @authorId 736816465545527357
+ * @source TBD
+ */
+
+.avatar__08316, div[class*=avatarSpeaking-], .avatarSmall__7dc81, .border_e782de.speaking__1dd69, .callAvatarMaskContainer_c176a6, .voiceAvatar__54cc1, .overlayAvatar-1U_zp1, .replyAvatar_cea07c {
+  border-radius: 15%
+}
+
+img.avatarDecoration__14b3c {
+  display: none !important
+}
+
+svg.avatarDecoration_ae35e3 {
+  display: none !important
+}
+
+svg.mask__1979f.svg_f5b652 foreignObject, svg.svg__7900e.avatarHint__8e5b9 foreignObject, svg__7900e callAvatarMask__29ce7 foreignObject, svg.bannerSVGWrapper__3e7b0 foreignObject {
+  mask: none !important;
+  border-radius: 15%;
+  overflow: hidden !important
+}

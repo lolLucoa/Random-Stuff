@@ -19,8 +19,13 @@ svg.avatarDecoration_ae35e3 {
   display: none !important
 }
 
-svg.mask__1979f.svg_f5b652 foreignObject, svg.svg__7900e.avatarHint__8e5b9 foreignObject, svg__7900e callAvatarMask__29ce7 foreignObject, svg.bannerSVGWrapper__3e7b0 foreignObject {
+svg.mask__1979f.svg_f5b652 foreignObject, svg.svg__7900e.avatarHint__8e5b9 foreignObject, svg__7900e callAvatarMask__29ce7 foreignObject {
   mask: none !important;
   border-radius: 15%;
+  overflow: hidden !important
+}
+
+svg.bannerSVGWrapper__3e7b0 foreignObject {
+  mask: none !important;
   overflow: hidden !important
 }

@@ -1,31 +1,35 @@
 /**
  * @name Rounded Squared Avatars
  * @author Nam
- * @description Requested by SpaceWalker. Makes avatars rounded.
+ * @description Requested by SpaceWalker. It makes avatars rounded.
  * @version 1
  * @authorId 736816465545527357
  * @source https://github.com/lolLucoa/Random-Stuff
  */
 
-.avatar__08316, div[class*=avatarSpeaking-], .avatarSmall__7dc81, .border_e782de.speaking__1dd69, .callAvatarMaskContainer_c176a6, .voiceAvatar__54cc1, .overlayAvatar-1U_zp1, .replyAvatar_cea07c, .avatarSpeaking__61fb1, .executedCommandAvatar__939bc {
+.avatar__08316, div[class*=avatarSpeaking-], .avatarSmall__85dc8, .border_e782de.speaking_b20122, .callAvatarMaskContainer__75720, .voiceAvatar_d0dbc5, .overlayAvatar-1U_zp1, .replyAvatar__4ba85, .avatarSpeaking__747a1, .executedCommandAvatar_cfc856 {
   border-radius: 15%
 }
 
-img.avatarDecoration__14b3c {
+img.avatarDecoration__8a0c2 {
   display: none !important
 }
 
-svg.avatarDecoration_ae35e3 {
+svg.avatarDecoration_cf681a {
   display: none !important
 }
 
-svg.mask__1979f.svg_f5b652 foreignObject, svg.svg__7900e.avatarHint__8e5b9 foreignObject, svg__7900e callAvatarMask__29ce7 foreignObject {
+svg.mask_d5067d.svg_a6bf1c foreignObject, svg.svg_bb7847.avatarHint__15059 foreignObject, svg_bb7847 callAvatarMask__11fbc foreignObject {
   mask: none !important;
   border-radius: 15%;
   overflow: hidden !important
 }
 
-svg.bannerSVGWrapper__3e7b0 foreignObject {
+svg.bannerSVGWrapper__8a38c foreignObject {
   mask: none !important;
   overflow: hidden !important
+}
+
+.unavailableTooltip__44d63 {
+  display: none;
 }

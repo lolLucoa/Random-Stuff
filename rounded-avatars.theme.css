@@ -7,29 +7,29 @@
  * @source https://github.com/lolLucoa/Random-Stuff
  */
 
-.avatar__08316, div[class*=avatarSpeaking-], .avatarSmall__85dc8, .border_e782de.speaking_b20122, .callAvatarMaskContainer__75720, .voiceAvatar_d0dbc5, .overlayAvatar-1U_zp1, .replyAvatar__4ba85, .avatarSpeaking__747a1, .executedCommandAvatar_cfc856, .avatarBackground__1bc8d {
+.avatar_ec86aa, div[class*=avatarSpeaking-], .avatarSmall_cdc675, .border_a5cd29.speaking_a5cd29, .callAvatarMaskContainer_a5cd29, .voiceAvatar_a5cd29, .overlayAvatar-1U_zp1, .replyAvatar_ec86aa, .avatarSpeaking_c51b4e, .executedCommandAvatar_ec86aa, .avatarBackground_bb882a {
   border-radius: 15%
 }
 
-img.avatarDecoration__8a0c2 {
+img.avatarDecoration_ec86aa {
   display: none !important
 }
 
-svg.avatarDecoration_cf681a {
+svg.avatarDecoration_c51b4e {
   display: none !important
 }
 
-svg.mask_d5067d.svg_a6bf1c foreignObject, svg.svg_bb7847.avatarHint__15059 foreignObject, svg_bb7847 callAvatarMask__11fbc foreignObject {
+svg.mask_c51b4e.svg_c51b4e foreignObject, svg.svg_d48241.avatarHint_f89da9 foreignObject, svg_d48241 callAvatarMask_a5cd29 foreignObject {
   mask: none !important;
   border-radius: 15%;
   overflow: hidden !important
 }
 
-svg.bannerSVGWrapper__8a38c foreignObject {
+svg.bannerSVGWrapper_b32cc2 foreignObject {
   mask: none !important;
   overflow: hidden !important
 }
 
-.unavailableTooltip__44d63 {
+.unavailableTooltip_f40049 {
   display: none;
 }

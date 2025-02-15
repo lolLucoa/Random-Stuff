@@ -7,7 +7,7 @@
  * @source https://github.com/lolLucoa/Random-Stuff
  */
 
-img.avatar_c19a55.clickable_c19a55, div[class*=avatarSpeaking-], .avatarSmall_d80634, .border_db83a2.speaking_db83a2, .callAvatarMaskContainer_db83a2, .voiceAvatar_db83a2, .overlayAvatar-1U_zp1, .replyAvatar_f9f2ca, .avatarSpeaking_c51b4e, .executedCommandAvatar_f9f2ca, .avatarBackground_bb882a, img.embedAuthorIcon__623de, img.executedCommandAvatar_c19a55.clickable_c19a55, img.avatar_f9f2ca, img.replyAvatar_c19a55.clickable_c19a55, .userAvatar_ac3629.avatar_d80634.avatarSmall_d80634, img.threadMessageAccessoryAvatar_c19a55, .avatars__1ee8c.avatars_ef4a91 {
+img.avatar_c19a55.clickable_c19a55, div[class*=avatarSpeaking-], .avatarSmall__07f91, .border_f910d0.speaking_f910d0, .callAvatarMaskContainer_f910d0, .voiceAvatar_f910d0, .overlayAvatar-1U_zp1, .replyAvatar_c19a55, .avatarSpeaking__44b0c, .executedCommandAvatar_c19a55, .avatarBackground_eb2508, img.embedAuthorIcon__623de, img.executedCommandAvatar_c19a55.clickable_c19a55, img.avatar_c19a55, img.replyAvatar_c19a55.clickable_c19a55, .userAvatar__55bab.avatar__07f91.avatarSmall__07f91 {
   border-radius: 15%
 }
 
@@ -15,7 +15,7 @@ img.avatarDecoration_c19a55, svg.avatarDecoration__44b0c {
   display: none !important
 }
 
-svg.mask_c51b4e.svg_c51b4e foreignObject, svg.svg_d48241.avatarHint_f89da9 foreignObject, svg_d48241 callAvatarMask_db83a2 foreignObject {
+svg.mask__44b0c.svg__44b0c foreignObject, svg.svg_d48241.avatarHint_f89da9 foreignObject, svg_d48241 callAvatarMask_f910d0 foreignObject {
   mask: none !important;
   border-radius: 15%;
   overflow: hidden !important
@@ -26,6 +26,6 @@ svg.bannerSVGWrapper_b32cc2 foreignObject {
   overflow: hidden !important
 }
 
-.unavailableTooltip_f40049 {
+.unavailableTooltip__6d4ed {
   display: none;
 }
